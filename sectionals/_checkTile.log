@@ -1,0 +1,2861 @@
+
+C:\Users\junk_\Documents\sectionals>SET WEBSITE_ROOT=C:\Users\junk_\Documents\website\public_html\charts 
+
+C:\Users\junk_\Documents\sectionals>TIME /T 
+05:37 PM
+
+C:\Users\junk_\Documents\sectionals>checkTile.exe C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr 
+
+C:\Users\junk_\Documents\sectionals>CALL atlantaVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\610.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\611.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\612.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\613.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\614.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\615.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\616.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\617.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\618.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\619.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\258\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\610.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\611.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\612.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\613.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\614.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\615.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\616.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\617.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\618.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\619.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\259\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\610.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\611.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\612.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\613.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\614.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\615.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\616.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\617.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\618.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\619.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\260\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\261\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\261\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\261\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\262\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\262\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\262\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\263\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\263\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\263\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\264\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\264\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\264\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\265\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\265\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\265\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\266\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\266\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\266\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\267\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\267\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\267\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\268\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\268\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\268\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\269\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\269\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\269\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\270\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\270\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\270\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\271\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\271\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\271\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\272\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\272\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\272\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\273\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\273\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\273\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\274\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\274\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\274\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\275\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\275\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\275\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\276\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\276\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\276\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\277\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\277\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\277\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\278\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\278\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\278\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\279\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\279\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\279\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\280\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\280\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\280\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\281\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\281\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\281\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\282\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\282\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\282\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\282\610.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\282\611.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\282\612.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\282\613.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\282\614.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\282\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\10\282\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\7\32\75.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\7\32\78.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\7\33\75.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\7\33\78.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\7\34\75.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\7\34\78.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\7\35\75.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\7\35\78.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\64\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\64\153.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\64\154.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\64\155.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\64\156.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\65\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\65\156.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\66\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\66\156.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\67\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\67\156.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\68\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\68\156.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\69\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\69\156.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\70\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\8\70\156.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\129\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\129\305.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\129\306.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\129\307.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\129\308.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\129\309.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\129\310.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\129\311.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\129\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\130\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\130\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\131\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\131\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\132\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\132\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\133\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\133\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\134\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\134\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\135\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\135\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\136\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\136\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\137\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\137\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\138\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\138\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\139\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\139\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\140\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\140\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\141\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\141\304.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\141\305.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\141\306.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\atlantaVfr\9\141\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL atlantaVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>checkTile.exe C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr 
+
+C:\Users\junk_\Documents\sectionals>CALL charlotteVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\610.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\611.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\612.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\613.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\614.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\615.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\616.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\617.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\618.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\276\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\610.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\611.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\612.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\613.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\614.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\616.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\617.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\277\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\278\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\278\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\279\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\279\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\280\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\280\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\281\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\281\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\282\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\283\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\283\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\284\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\284\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\285\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\285\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\286\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\286\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\287\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\287\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\288\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\288\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\289\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\289\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\290\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\290\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\291\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\291\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\292\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\292\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\293\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\293\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\294\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\294\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\295\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\295\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\296\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\297\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\297\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\298\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\610.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\611.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\612.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\613.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\614.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\615.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\616.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\617.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\618.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\619.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\10\299\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\7\34\75.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\7\36\75.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\8\69\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\8\71\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\8\72\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\8\73\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\138\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\138\305.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\138\306.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\138\308.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\138\310.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\138\311.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\139\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\140\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\142\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\143\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\144\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\145\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\146\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\charlotteVfr\9\147\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL charlotteVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>checkTile.exe C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr 
+
+C:\Users\junk_\Documents\sectionals>CALL cincinnatiVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\625.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\626.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\627.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\628.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\629.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\630.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\631.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\632.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\633.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\265\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\625.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\626.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\629.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\630.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\632.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\633.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\266\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\625.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\627.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\628.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\629.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\630.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\631.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\632.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\267\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\625.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\626.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\627.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\628.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\629.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\630.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\631.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\632.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\633.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\268\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\626.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\627.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\628.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\629.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\630.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\632.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\633.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\269\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\270\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\271\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\273\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\274\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\275\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\276\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\277\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\278\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\280\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\281\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\282\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\283\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\284\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\285\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\287\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\289\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\10\290\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\8\66\159.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\132\310.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\132\311.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\132\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\132\313.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\132\314.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\132\315.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\132\316.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\132\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\132\318.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\133\311.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\133\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\133\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\133\318.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\134\311.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\134\313.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\134\314.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\134\316.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\cincinnatiVfr\9\134\318.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL cincinnatiVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>checkTile.exe C:\Users\junk_\Documents\website\public_html\charts\detroitVfr 
+
+C:\Users\junk_\Documents\sectionals>CALL detroitVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\638.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\639.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\640.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\641.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\642.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\643.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\644.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\645.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\646.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\647.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\648.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\266\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\638.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\639.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\640.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\641.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\642.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\643.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\645.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\646.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\647.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\648.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\267\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\638.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\639.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\640.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\641.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\642.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\643.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\644.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\645.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\646.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\647.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\648.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\268\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\638.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\639.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\640.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\641.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\642.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\643.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\644.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\645.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\646.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\647.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\648.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\269\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\270\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\270\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\271\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\271\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\272\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\272\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\273\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\273\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\274\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\274\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\275\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\275\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\276\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\277\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\277\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\278\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\278\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\279\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\279\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\280\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\280\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\281\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\281\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\282\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\282\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\283\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\283\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\284\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\284\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\285\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\286\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\286\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\287\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\288\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\288\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\289\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\289\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\290\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\290\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\291\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\291\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\292\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\292\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\293\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\293\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\638.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\639.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\640.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\641.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\642.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\643.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\644.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\645.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\646.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\647.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\648.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\10\294\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\8\66\158.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\8\66\159.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\8\66\160.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\8\66\162.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\8\66\163.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\8\67\158.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\8\68\158.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\8\70\158.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\8\72\158.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\8\73\158.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\133\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\133\318.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\133\319.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\133\320.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\133\321.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\133\323.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\133\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\133\325.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\133\326.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\134\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\134\318.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\134\319.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\134\320.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\134\321.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\134\322.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\134\323.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\134\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\134\325.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\134\326.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\135\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\136\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\137\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\139\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\140\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\141\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\144\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\145\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\146\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\147\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\147\318.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\147\319.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\147\320.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\147\321.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\147\322.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\147\323.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\147\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\147\325.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\detroitVfr\9\147\326.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL detroitVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>checkTile.exe C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr 
+
+C:\Users\junk_\Documents\sectionals>CALL halifaxVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\653.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\654.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\655.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\656.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\657.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\658.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\659.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\660.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\661.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\662.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\663.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\664.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\665.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\666.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\667.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\668.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\312\669.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\653.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\654.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\655.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\656.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\658.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\660.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\661.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\662.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\663.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\664.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\665.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\666.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\667.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\668.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\313\669.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\653.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\654.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\655.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\656.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\657.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\658.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\661.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\662.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\663.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\664.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\665.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\666.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\667.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\668.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\314\669.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\315\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\315\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\316\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\316\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\317\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\317\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\318\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\319\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\320\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\320\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\321\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\321\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\322\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\323\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\324\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\325\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\326\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\326\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\327\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\327\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\328\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\328\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\329\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\329\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\330\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\330\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\331\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\331\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\332\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\333\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\334\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\334\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\335\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\335\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\336\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\336\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\337\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\337\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\338\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\338\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\339\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\339\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\339\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\339\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\339\653.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\339\654.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\339\655.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\339\656.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\339\657.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\10\339\669.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\156\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\156\326.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\156\327.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\156\330.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\156\331.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\156\332.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\156\333.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\156\334.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\157\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\158\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\159\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\160\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\162\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\163\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\164\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\165\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\166\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\167\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\168\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\halifaxVfr\9\169\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL halifaxVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>checkTile.exe C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr 
+
+C:\Users\junk_\Documents\sectionals>CALL jacksonvilleVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\595.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\597.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\598.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\599.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\600.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\601.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\602.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\603.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\604.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\605.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\267\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\597.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\598.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\600.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\601.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\602.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\603.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\604.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\605.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\268\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\595.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\597.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\598.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\599.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\600.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\602.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\605.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\269\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\270\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\272\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\273\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\274\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\275\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\276\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\276\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\277\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\278\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\279\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\279\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\280\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\281\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\281\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\282\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\282\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\283\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\284\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\285\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\286\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\287\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\287\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\287\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\288\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\288\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\10\288\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\8\66\148.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\8\66\149.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\8\66\150.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\8\66\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\8\66\152.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\133\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\133\297.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\133\298.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\133\299.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\133\300.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\133\301.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\133\302.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\133\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\133\304.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\134\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\134\298.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\134\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\134\304.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\136\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\137\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\138\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\139\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\140\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\141\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\142\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\143\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\jacksonvilleVfr\9\144\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL jacksonvilleVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>checkTile.exe C:\Users\junk_\Documents\website\public_html\charts\miamiVfr 
+
+C:\Users\junk_\Documents\sectionals>CALL miamiVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\582.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\583.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\584.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\585.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\586.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\587.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\588.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\589.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\591.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\592.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\595.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\273\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\583.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\584.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\585.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\586.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\587.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\588.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\589.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\590.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\591.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\592.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\595.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\274\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\275\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\277\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\278\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\279\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\279\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\280\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\280\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\281\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\281\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\282\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\282\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\283\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\283\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\284\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\284\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\285\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\286\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\287\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\287\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\289\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\290\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\290\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\291\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\291\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\292\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\292\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\293\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\294\581.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\10\294\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\8\70\149.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\8\73\149.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\136\290.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\136\291.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\136\292.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\136\293.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\136\294.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\136\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\136\298.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\137\290.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\139\290.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\140\290.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\140\298.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\141\290.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\141\298.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\142\298.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\143\290.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\145\290.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\145\298.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\146\298.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\147\290.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\miamiVfr\9\147\298.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL miamiVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>checkTile.exe C:\Users\junk_\Documents\website\public_html\charts\montrealVfr 
+
+C:\Users\junk_\Documents\sectionals>CALL montrealVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\653.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\654.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\655.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\656.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\657.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\658.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\659.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\660.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\661.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\662.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\663.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\664.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\665.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\666.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\667.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\668.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\288\669.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\653.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\654.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\655.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\656.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\658.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\659.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\660.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\661.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\662.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\664.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\665.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\666.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\667.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\668.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\289\669.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\653.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\654.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\655.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\656.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\657.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\658.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\659.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\660.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\661.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\663.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\664.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\665.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\666.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\667.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\290\669.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\654.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\655.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\656.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\658.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\659.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\660.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\662.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\663.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\664.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\665.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\666.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\667.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\668.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\291\669.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\293\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\293\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\294\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\295\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\295\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\296\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\296\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\297\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\297\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\298\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\298\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\299\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\299\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\300\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\301\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\301\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\302\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\302\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\303\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\304\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\304\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\305\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\305\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\306\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\306\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\307\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\308\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\308\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\309\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\310\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\310\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\311\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\312\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\313\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\313\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\314\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\315\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\315\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\316\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\316\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\317\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\317\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\317\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\317\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\317\653.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\317\654.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\317\655.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\10\317\656.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\8\72\162.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\8\72\166.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\144\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\144\325.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\144\326.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\144\327.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\144\329.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\144\330.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\144\332.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\144\333.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\144\334.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\145\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\145\325.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\145\327.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\145\329.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\145\332.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\145\333.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\147\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\148\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\149\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\150\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\151\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\152\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\153\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\154\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\155\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\156\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\157\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\montrealVfr\9\158\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL montrealVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>checkTile.exe C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr 
+
+C:\Users\junk_\Documents\sectionals>CALL newOrleansVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\595.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\597.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\598.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\599.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\600.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\601.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\602.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\603.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\604.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\605.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\250\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\595.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\597.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\598.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\599.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\600.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\601.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\602.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\603.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\604.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\605.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\607.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\251\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\594.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\595.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\596.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\597.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\599.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\600.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\601.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\602.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\604.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\605.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\606.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\608.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\252\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\253\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\253\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\254\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\254\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\255\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\256\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\257\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\258\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\259\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\260\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\261\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\262\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\263\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\264\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\266\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\267\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\268\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\268\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\269\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\269\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\270\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\270\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\271\593.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\10\271\609.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\8\62\148.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\8\62\149.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\8\62\150.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\8\62\151.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\8\62\152.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\125\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\125\297.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\125\298.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\125\299.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\125\300.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\125\301.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\125\302.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\125\303.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\125\304.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\126\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\127\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\128\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\129\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\130\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\131\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\133\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\134\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newOrleansVfr\9\135\296.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL newOrleansVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>checkTile.exe C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr 
+
+C:\Users\junk_\Documents\sectionals>CALL newYorkVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\638.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\639.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\640.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\641.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\642.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\643.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\644.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\645.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\646.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\647.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\648.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\289\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\638.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\639.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\640.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\641.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\642.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\643.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\644.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\645.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\646.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\647.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\648.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\290\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\638.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\639.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\640.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\641.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\642.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\643.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\645.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\646.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\647.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\648.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\649.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\650.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\651.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\291\652.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\292\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\292\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\293\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\293\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\294\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\294\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\295\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\295\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\296\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\296\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\297\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\297\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\298\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\298\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\299\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\300\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\300\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\301\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\301\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\302\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\302\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\303\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\303\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\304\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\304\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\305\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\306\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\306\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\307\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\307\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\308\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\309\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\310\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\310\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\311\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\311\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\312\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\312\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\313\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\313\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\314\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\314\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\315\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\315\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\316\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\316\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\316\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\10\316\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\8\72\158.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\8\72\159.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\8\72\160.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\8\72\162.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\8\72\163.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\8\73\158.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\8\74\158.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\8\75\158.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\8\78\158.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\8\79\158.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\144\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\144\318.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\144\319.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\144\320.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\144\321.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\144\322.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\144\323.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\144\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\144\325.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\144\326.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\145\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\145\318.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\145\319.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\145\320.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\145\321.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\145\323.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\145\324.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\145\325.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\145\326.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\146\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\147\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\148\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\149\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\150\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\151\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\153\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\155\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\156\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\157\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\158\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\newYorkVfr\9\158\318.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL newYorkVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>checkTile.exe C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr 
+
+C:\Users\junk_\Documents\sectionals>CALL washingtonVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\625.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\626.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\627.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\628.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\629.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\630.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\631.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\632.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\284\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\625.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\626.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\627.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\628.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\629.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\630.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\631.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\632.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\633.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\285\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\625.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\626.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\627.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\628.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\629.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\630.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\631.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\632.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\633.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\634.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\635.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\636.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\286\637.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\287\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\288\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\289\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\291\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\292\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\293\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\294\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\295\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\297\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\298\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\299\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\300\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\301\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\304\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\305\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\306\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\307\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\308\620.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\308\621.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\308\622.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\308\623.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\308\624.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\308\625.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\308\626.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\308\627.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\308\628.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\308\629.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\308\630.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\10\308\631.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\8\77\155.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\8\77\156.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\8\77\157.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\142\310.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\142\311.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\142\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\142\313.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\142\314.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\142\315.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\142\317.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\142\318.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\154\310.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\154\311.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\154\312.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\154\313.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\154\314.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL "C:\Users\junk_\Documents\website\public_html\charts\washingtonVfr\9\154\315.png" 
+
+C:\Users\junk_\Documents\sectionals>DEL washingtonVfrDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>checkTile.exe C:\Users\junk_\Documents\website\public_html\charts\weather 
+
+C:\Users\junk_\Documents\sectionals>CALL weatherDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>DEL weatherDeleter.bat 
+
+C:\Users\junk_\Documents\sectionals>TIME /T 
+05:39 PM
+C:\Users\junk_\Documents\sectionals>
