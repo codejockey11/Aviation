@@ -1,0 +1,137 @@
+version 0.21 - 13/01/2004
+* Buggy version
++ Added basic Airport decode routine
+
+version 0.25 - 23/01/2004
++ Implemented: porting to other compilers (it may compiled with BCC,MSC,LCC
+  and WATCOM)
+
+version 0.29 - 03/02/2004
+* Fixed: crash during OB*.BGL scanning (could not decode AttachedObject)
++ Implemented: porting to DOS32 environment (can be compiled by DJGPP)
+
+version 0.30 - 04/02/2004
++ Implemented: decoding of Regions, Countries, States and Cities
+  (this is still experimental !!!)
++ Make: first release to public domain - GNU-GPL applies
+
+version 0.31 - 06/02/2004
++ Implemented: decoding of <Start /> records
+* Improved: decode Markers routine
+* Fixed: wrong decode of Routes (was printing route info when not requested)
++ Implemented: decoding of <Aprons /> records
++ Implemented: decoding of <Approach /> records
++ Implemented: decoding of <TaxiwayPoint /> records
+* Changed: airport decode routine in a more elegant way (uses a function
+  lookup table instead of a switch construct, to reduce code overhead)
++ Implemented: porting to MINGW (GNU C/C++ for WIN32)
++ Implemented: decoding of <TaxiName /> records
+
+version 0.32 - 07/02/2004
++ Implemented: decoding of <Helipad /> records
++ Implemented: decoding of <TaxiwayPath /> records
++ Implemented: porting to LINUX (may be compiled with GCC)
+
+version 0.33 - 09/02/2004
++ Implemented: decoding of <TaxiwayParking /> records
+* Fixed: BGLXML didn't recognize <DeleteAirport /> entries into BGL files
+  modified by AFCAD 2
+
+version 0.34 - 11/02/2004
++ Implemented: decoding of all records embedded into <Approach />
++ Implemented: decoding of <TaxiwaySign /> records. WARNING: this is still
+  experimental !!! Please expect some bugs (I hope not, however)
+
+version 0.35 - 13/02/2004
+* Fixed: bug in <TaxiwayPath /> caused leftEdgeLighted parameter to be printed
+  as leftEdgeLighted== (courtesy of Thomas Rudh)
+* Fixed: <TaxiwayParking /> entries are now decoded properly
+* Fixed: <TaxiwaySign /> labels want < and > to be translated to
+  &lt; and &gt; (courtesy of Michel Mettling)
+* Fixed: modified runway code in order to properly decode entries with
+  "NORTH,SOUTH,etc." numbers
++ Implemented: decoding of <DeleteFrequency /> records
++ Implemented: decoding of <Services /> records
+* Fixed: mess with ending tags during decoding of <ApronEdgeLights /> entries.
+* Fixed: Legs type FD were missing theta and rho components
++ Implemented: decoding of <Geopol /> records
+
+version 0.40 - 19/02/2004
+* Fixed: "States" look-up routine didn't find more than 16 States.
+* Fixed: Too many parameters printed for Legs type VI
+* Fixed: when two runways are two closed and have same heading, BGLXML
+  includes ILS for both runways in both runways :-)
+* Fixed: decoding of regions that ended up with "AA" now ends up correctly
++ Added: xmlshell.exe, to allow running BGLXML through a GUI (for those
+  not fond of command line prompt boxes).
+
+version 0.41 - 20/02/2004
+* Fixed: the end parameter in <TaxiwayPath /> gave out weird values.
+  (courtesy of Michel Mettling)
+* Fixed: mess with orientation parameter in <TaxiwayPoint />
+  (courtesy of emerlee2002)
+
+version 1.0 - milestone release 25/02/2004
++ Added: decoding of <Boundary /> is now implemented.
++ Added: decoding of <Tower /> is now implemented
+* Fixed: took out unnecessary parameters from legs type CI
+* Fixed: Descriptive strings are now printed with XML translations
+         (non alphanumeric characters printed as Hex Codes)
++ Added: support for BGLCOMP version 2.0 (and documents updated)
+
+version 1.1 - 09/03/2004
+* Fixed: decoding logic of <DeleteAirport /> which is now printed correctly.
+* Fixed: Analyze Effect routine was printing out hex codes without
+  necessary semi-colons
++ Added: <Circle /> childer tag of <Boundary> record have now altitude and
+  altitude type parameters (upon request of rafaelds)
++ Added: due to many people requesting it, I have included XML shell source
+  code along with distribution archive
+
+version 1.2 - 10/03/2004
+* Fixed: city, region, country, state tags in airport were printed
+  without being transformed for XML
+* Fixed: DecodeIdStr now uses a more elegant routine
+  (courtesy of Marco Sinchetto)
+* Fixed: we found the correct method for determining ILS runways ownership
+  (courtesy of Marco Sinchetto)
+* Fixed: BORLAND C++ RTL Bug doesn't allow running bglxml from directories
+  containing spaces. This only applies to BC++ 4.5, later versions doesn't
+  have this bug. I made this compilation-transparent by #ifdef/#endif pairs.
+- Dropped: distribution of modelid.exe. Obj ID generator is now built in
+  inside xmlshell.exe
+
+version 1.5 - 09/04/2004
+- Added: terminal waypoints are now embedded inside their owning airports.
+* Fixed: bug with TaxiwayPath scrambled all taxiways under some circumstances.
+
+version 1.7 - 12/10/2005
+- Added: routine to properly detect fuel type.
+- Added: routine to properly detect and decode multi route waypoints.
+
+version 1.8 - 18/10/2005
+* Fixed: airport tower was not properly decoded under some circumstances.
+  (courtesy of Michel Mettling)
+* Fixed: routine to detect Airport ICAO IDs (without it, not all airport
+  location info could be decoded)
+  (courtesy of Michel Mettling)
+- Added: makefile.icc to build executable using Intel C++ compiler (you
+  also need Microsoft NMAKE and LINK for making and building)
+
+version 2.0 - 24/09/2007
+* all changes below, courtesy of Jonathan Harris
+- Added: Apron lights.
+- Added: makefile.mac to build on Intel and big-endian PPC Macs.
+* Fixed: Non-ASCII airport names incorrectly encoded under some
+  circumstances.
+* Fixed: Taxiwaysigns and boundaries not decoded under some
+  circumstances.
+* Fixed: Fuel types, approach lights & markings incorrectly decoded
+  under some circumstances.
+* Changed to get GUIDs from "library objects.txt" from the FSX SDK.
+
+version 2.1 - 20/10/2007
+- Added: decode of Apron and Boundary Fences
+- Fixed: various bugs decodind AFCAD/AFX files
+- Fixed: output XML files to allow recompile with BGLCOMP with as less
+  manual modifications as possible.

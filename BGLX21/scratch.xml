@@ -1,0 +1,55 @@
+<!--
+	decoded by bglxml on 2015-11-22, 19:52:54
+-->
+<FSData version="9.0" xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+ xsi:noNamespaceSchemaLocation="bglcomp.xsd" >
+
+	<Waypoint lat="-70.000000" lon="168.333334" waypointType="NAMED"
+		magvar="81.10" waypointRegion="NZ" waypointIdent="GULAN" >
+		<Route routeType="BOTH" name="A338" >
+			<Previous waypointType="UNNAMED" waypointRegion="NZ"
+				waypointIdent="KALVA" altitudeMinimum="0.000" />
+			<Next waypointType="UNNAMED" waypointRegion="NZ"
+				waypointIdent="ELNAK" altitudeMinimum="0.000" />
+		</Route>
+	</Waypoint>
+
+	<Waypoint lat="-75.000000" lon="166.500000" waypointType="NAMED"
+		magvar="46.60" waypointRegion="NZ" waypointIdent="KALVA" >
+		<Route routeType="BOTH" name="A338" >
+			<Previous waypointType="UNNAMED" waypointRegion="NZ"
+				waypointIdent="LAVIS" altitudeMinimum="0.000" />
+			<Next waypointType="UNNAMED" waypointRegion="NZ"
+				waypointIdent="GULAN" altitudeMinimum="0.000" />
+		</Route>
+	</Waypoint>
+
+	<Waypoint lat="-76.183889" lon="165.856667" waypointType="NAMED"
+		magvar="40.10" waypointRegion="NZ" waypointIdent="LAVIS" >
+		<Route routeType="BOTH" name="A338" >
+			<Previous waypointType="UNNAMED" waypointRegion="NZ"
+				waypointIdent="BYRD" altitudeMinimum="0.000" />
+			<Next waypointType="UNNAMED" waypointRegion="NZ"
+				waypointIdent="KALVA" altitudeMinimum="0.000" />
+		</Route>
+	</Waypoint>
+
+	<Waypoint lat="-77.750000" lon="165.700000" waypointType="NAMED"
+		magvar="34.10" waypointRegion="NZ" waypointIdent="REGAT" >
+		<Route routeType="BOTH" name="A338" >
+			<Next waypointType="UNNAMED" waypointRegion="NZ"
+				waypointIdent="BYRD" altitudeMinimum="0.000" />
+		</Route>
+	</Waypoint>
+
+	<Waypoint lat="-77.500000" lon="165.000000" waypointType="NAMED"
+		magvar="33.80" waypointRegion="NZ" waypointIdent="BYRD" >
+		<Route routeType="BOTH" name="A338" >
+			<Previous waypointType="UNNAMED" waypointRegion="NZ"
+				waypointIdent="REGAT" altitudeMinimum="0.000" />
+			<Next waypointType="UNNAMED" waypointRegion="NZ"
+				waypointIdent="LAVIS" altitudeMinimum="0.000" />
+		</Route>
+	</Waypoint>
+
+</FSData>

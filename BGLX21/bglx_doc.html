@@ -1,0 +1,286 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>BGLXML Documentation</title>
+</head>
+<body>
+<p align="center"><b><font size="4">BGLXML - a freeware multi-platform
+decompiler for FSX BGL files</font></b></p>
+<p align="center"><i>(C) 2004-2007, Alessandro G. Antonini - (Central
+Park
+Informatica)</i></p>
+<hr><b>What is BGLXML?</b>
+<p align="left">BGLXML is an utility which analyzes and decompiles BGL
+files
+into <span style="font-weight: bold;">FSX format</span> and
+produces human readable XML files to be
+recompiled with
+Microsoft BGLCOMP. It fully supports almost if not all options included
+into
+new BGL file format (Microsoft has introduced significant changements
+since
+previous FS releases). If a BGL file contains objects created with
+Microsoft MakeMDL (which is the utility to convert three-dimensional
+objects created with GMax), BGLXML is able to extract them and write
+back to hard disk in .MDL format (for each XML file produced by BGLXML
+there will be nnn MDL files in the same directory than XML). BGLXML is
+also able to decode all objects into a BGL or only those interesting
+you (see <span style="font-style: italic;">Partial decode switches </span>below).<br>
+</p>
+<hr><b>BGLXML License</b>
+<p align="left">BGLXML is freeware, open-source, and is licensed under
+GNU GPL - if
+you are in
+doubt about what this means, please read the COPYING file which is
+contained
+inside the distribution archive. <br>
+<span style="font-weight: bold;"><br>
+</span></p>
+<div style="text-align: center;"><span style="font-weight: bold;">****
+FRIENDLY WARNING ***</span><br>
+<div style="text-align: left;"><span style="font-weight: bold;"></span><span
+ style="font-weight: bold;">GNU General Public License implies that any
+application and / or program library must be redistributed with source
+code (or with the chance to get source code for anybody making request
+of it). Therefore, if you build a program or a library using BGLXML
+source code, then you also have to release it under GNU GPL (with
+source code). If this bothers, you don't have to use even a line of
+BGLXML source code within your programs.</span></div>
+</div>
+<p align="left"> </p>
+<hr><b>WARRANTY</b>
+<br>
+This program is distributed in the hope that it will be useful, but <span
+ style="font-weight: bold;">WITHOUT ANY WARRANTY</span>; without even
+the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+PURPOSE. See the <a href="file:///copying">GNU General Public License</a>
+for more details.
+<hr><b>INSTALLATION</b>
+<p align="left">Simply create a directory on your hard drive and UNZIP
+the
+distribution archive inside it. You have four executable files, which
+are:</p>
+<ul>
+  <li> <b>BGLXML.EXE</b> - the WIN32 native disassemler
+version </li>
+  <li> <b>BGLXMLD.EXE</b> - the DOS 386 protected mode
+disassemler version </li>
+  <li><b>XMLSHELL.EXE</b> - the WIN32
+GUI program to execute BGLXML from Windows Explorer (without any need
+to open a command-line prompt box)</li>
+</ul>
+<ul>
+</ul>
+<p align="left">The rest of the distribution archive contains:</p>
+<ul>
+  <li><b>LIBRARY OBJECTS.TXT</b> - this is a file BGLXML uses to
+translate among internal objects ID (which is a 128 bit hex number) and
+object names. If it doesn't find it, it works all the same, but object
+name translation is disabled - therefore, just place it into the same
+directory of BGLXML.EXE<br>
+  </li>
+  <li><b>HYSTORY.TXT</b> - a summary of all changes made
+between new releases </li>
+  <li><b>SRC_CODE.ZIP</b> - a compressed archive which
+contains the program's source code, in ANSI C language (BGLXML may be
+recompiled under WIN32, using any C compiler available out there, and
+under LINUX/*NIX using GCC) </li>
+  <li>other manifest files, shuch as <b>BGLXxxx.TXT </b>and <b>
+FILE_ID.DIZ </b>(using for WEB sites file libraries) </li>
+</ul>
+<hr><b></b><b>USAGE<br>
+</b>For those people not very acquainted with command line programs, I
+have made a Windows Explorer version: open your BGLXML folder and
+double click on the XMLSHELL.EXE icon. This will allow you to drive the
+command line version, BGLXML.EXE, through the GUI. Otherwise, BGLXML is
+a command line executable which works in a
+character
+mode window. To use it under Window 9x or NT/XP you have to open a
+command
+prompt box, and change to the directory you extracted the distribution
+archive.
+Ex: suppose if you have extracted it into c:\bglxml.
+Open the command prompt box and the issue the command: CHDIR
+C:\BGLXML. (to have a great aid with command
+line mode applications I suggest you try 4DOS or 4NT, available from
+<a href="http://www.jpsoft.com">JPSOFT</a>). Then, type BGLXML.EXE if
+you are
+under Windows or BGLXMLD.EXE if you are under DOS. BGLXML has several
+parameters
+(in fact, it does nothing if it's launched alone) which are:
+<p align="left"><b>-t</b> - this means terse mode. If this parameter is
+omitted
+then the XML output will contain several information about each decoded
+object
+(just experiment to understand what I mean)</p>
+<p align="left"><b>-d</b> - print lat/lon info as DD/MM/SS instead of
+decimal
+degrees. Most objects have latitude and longitude parameters, for
+example:</p>
+<p align="left">&lt;SceneryObject lat="66 30 00" lon="-23 20 00" ...
+&gt; - this is a
+scenery object with latitude and longitude in DD/MM/SS and is a result
+of a
+decompilation made with the <b>d</b> switch. If the switch weren't
+applied then
+it would be &lt;SceneryObject lat="66.50" lon="-23.33" ... &gt;</p>
+<p align="left"><b>-m </b>- print range in nautical miles (default is
+in
+meters). Many objects have a range parameter, such as VOR or NDB. a
+&lt;range="35000" ...&gt; (35000 meters) would be the result of a
+decompilation&nbsp;
+made without the <b>m</b> switch. Otherwise it would be&nbsp;
+&lt;range="18.88M"
+...&gt;</p>
+<p align="left"><b>-f </b>- print altitude in feet (default is in
+meters). Many
+objects have an altitude parameter, such as VOR, AIRPORTS and RUNWAYS.
+a
+&lt;alt="800" ...&gt; (800 meters) would be the result of a
+decompilation&nbsp; made
+without the <b>f</b> switch. Otherwise it would be&nbsp;
+&lt;alt="2624.64F" ...&gt;</p>
+<p align="left"><b>-h </b>- type BGLXML.EXE -h to obtain additional
+help on
+command line switches.</p>
+<p align="left">Switches may be specified separately (e.g -t -m -f) or
+they may
+be included all together in a single string ( e.g. -dmf)<br>
+</p>
+<p align="left">The other parameters have not a switch and mean, in
+order, the
+input BGL file to decode and the XML output to write. The output file
+parameter
+may be omitted, in this case the output file will be created in the
+same path of
+input file, with XML extension.</p>
+<p align="left"><b>Partial decode switches:</b></p>
+<p align="left">if you don't want to extract all object files from a
+BGL but instead you want to extract only those interesting you, then
+you may apply Partial decode function. How it works: first you define a
+circle having a central latitude, a central longitude and a radius;
+then, BGLXML measures the distance between each object's latitude and
+longitude and the central latitude/central longitude of&nbsp; our
+circle. If the distance is more than our circle radius, then the object
+won't be decompiled. <br>
+<br>
+<b>-n </b>- this switch specifies the central latitude of our circle.
+Argument may be in decimal degrees format or it may also be specified
+using SCASM notation (dd:mm:ss). If latitude is south, prepend a S
+before argument (Examples: -n45.6 -nS41.8 -n22:33:58 -nS51:40:56.5)<br>
+</p>
+<p align="left"><b>-e </b>- this switch specifies the central
+longitude
+of our circle. Argument may be in decimal degrees format or it may also
+be specified using SCASM notation (dd:mm:ss). If longitude is west,
+prepend a W before argument (Examples: -e45.6 -eW41.8 -e22:33:58
+-eW51:40:56.5)<br>
+<b>-r </b>- this switch specifies the radius (in kilometers) of our
+circle (example: -r15 - circle has a 15 kms radius).<br>
+</p>
+<b>Several usage samples</b>:
+<p align="left">BGLXML.EXE "c:\my
+bgls\myfile.bgl" - this will produce an output file such as "c:\my
+bgls\myfile.xml"</p>
+<p align="left">BGLXML.EXE "c:\my
+bgls\myfile.bgl" "c:\my
+xmls\myfile.xml" - this will produce a file named myfile.xml into
+c:\my xmls</p>
+<p align="left">BGLXML.EXE -t -f -m -d "c:\my
+bgls\myfile.bgl" "c:\my
+xmls\myfile.xml" - this will produce a file named myfile.xml into
+c:\my xmls - a terse output will be written, with
+lat/lon as DD/MM/SS, altitudes in feet, ranges in NM</p>
+<p align="left">BGLXML.EXE "c:\my
+bgls\myfile.bgl" "c:\my
+xmls\myfile.xml" -tmfd - same as above (switches may be stuffed before
+or
+after file names)<br>
+</p>
+<p align="left">BGLXML.EXE "c:\my
+bgls\myfile.bgl" "c:\my
+xmls\myfile.xml" -tmfd -n41.564 -e5.6562 -r10 - only decode those
+objects which are closer than 10 kilometers to N41.564, E5.6562<br>
+</p>
+<hr><b>SUPPORT and BUG REPORTS</b>
+<div align="center">
+</div>
+<p align="left">Support (as well as bug reports) may be obtained into <a
+ href="http://www.cpinf.com">My Home Page Forum</a>. - this is the
+place to
+get program updates, besides <a href="http://www.avsim.com">www.avsim.com</a>
+</p>
+<hr style="width: 100%; height: 2px;"><b>KNOW ISSUES AND LIMITATIONS<br>
+</b>
+<ul>
+  <li>BGLXML sometimes output NAVAID region as 'AA': what does it
+means? That happens mostly with terminal waypoints, terminal ndb etc.
+It seems that with those kind of NAVAID the region coding number is
+seeded with the owning Airport ICAO ID's. This doesn't happen with
+other navaids. I have not yet fully understood how the seed is done,
+therefore at the moment the only solution is to manually editing all
+those 'AA'. But, remember that contributors are welcome (that is why
+the program is open source :-))</li>
+  <li>BGLXML doesn't decode &lt;Boundary&gt;? It's not implemented,
+yet. Expect it in a future BGLXML release.</li>
+</ul>
+<br>
+<hr style="width: 100%; height: 2px;"><span style="font-weight: bold;">BGL
+FILES DEALT BY BGLXML<br>
+</span>
+<table style="width: 70%; text-align: left;" border="1" cellpadding="2"
+ cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;">File Prefix<br>
+      </td>
+      <td style="vertical-align: top;">Contain<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">AP*.BGL<br>
+      </td>
+      <td style="vertical-align: top;">Airport and terminal NAVAID<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">AT*.BGL<br>
+      </td>
+      <td style="vertical-align: top;">Routes, way-points, GeoPol's and
+Boundaries<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">NV*.BGL<br>
+      </td>
+      <td style="vertical-align: top;">VOR and NDB<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">OB*.BGL<br>
+      </td>
+      <td style="vertical-align: top;">Buildings and other scenery
+objects<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<span style="font-weight: bold;"><br>
+</span>Besides, there are BGL files named as cities (EX:
+SANFRAN.BGL,PARIS.BGL, etc.) These files contain three-dimensional
+Objects and they are also dealt by BGLXML - MDL files are extracted
+from them (MDL files are those files which are converted from GMax
+using Microsoft MakeMDL)<br>
+<p align="left">
+</p>
+<hr style="width: 100%; height: 2px;"><b>CHANGES<br>
+</b>For a list of changes, addition and bug fixes, please see
+<a href="file:///hystory.txt">HYSTORY.TXT</a>.<b><br>
+</b>
+<p align="left">HAVE FUN,</p>
+<p align="left">Alex - alex_a66@cpinf.com<br>
+</p>
+<p align="left">&nbsp;</p>
+<p align="left">&nbsp;</p>
+</body>
+</html>
